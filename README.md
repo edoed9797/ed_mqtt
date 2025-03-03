@@ -1,5 +1,3 @@
-Certamente, aggiungerò la struttura delle directory al README. Ecco come potrebbe essere integrata:
-
 # Sistema di Gestione Distributori Automatici di Bevande
 
 ## Descrizione del Progetto
